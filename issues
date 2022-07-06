@@ -1,0 +1,11 @@
+1. azure devops agent not runnig - not from local and not from eviroment
+filled out form
+
+2. unable to login to docker from machine-
+this has something to do with pass (im new to it)
+https://github.com/docker/docker-credential-helpers/issues/102
+Error saving credentials: error storing credentials - err: exit status 1, out: `pass store is uninitialized`
+
+
+
+
